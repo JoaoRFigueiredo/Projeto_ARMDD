@@ -1,0 +1,38 @@
+Claro, aqui estão mais 10 análises multidimensionais que você pode realizar com base nos dados do Data Warehouse criado para a empresa Bikes & Bikes:
+
+1
+Análise de Tendência de Vendas Mensais: Examine a tendência de vendas mensais ao longo de um período de vários anos. Isso pode ajudar a identificar padrões sazonais e tendências de longo prazo nas vendas.
+
+2
+Análise de Lucratividade por Produto: Analise a lucratividade de cada produto vendido, levando em consideração os custos, impostos e descontos. Isso pode ajudar a identificar os produtos mais lucrativos e os que podem precisar de ajustes de preços.
+
+3
+Análise de Desempenho de Vendedores: Avalie o desempenho dos vendedores com base nas vendas realizadas, incluindo métricas como receita total, margem de lucro e número de clientes atendidos.
+
+4
+Análise de Retenção de Clientes: Analise a taxa de retenção de clientes ao longo do tempo, identificando quantos clientes retornam para fazer compras repetidas e quais fatores contribuem para a retenção.
+
+5
+Análise de Eficiência de Transporte: Avalie a eficiência dos métodos de envio com base em métricas como tempo de entrega, custo de frete e satisfação do cliente.
+
+6
+Análise de Rentabilidade por Região: Avalie a rentabilidade das vendas em diferentes regiões geográficas, considerando fatores como custos de frete, impostos locais e margem de lucro.
+
+7
+Análise de Mix de Produtos: Analise a composição do mix de produtos vendidos ao longo do tempo, identificando quais categorias de produtos são mais populares e quais têm potencial para crescimento.
+
+8
+Análise de Tendências de Descontos: Examine as tendências de descontos ao longo do tempo, identificando períodos de aumento ou diminuição dos descontos e seu impacto nas vendas.
+
+9
+Análise de Rentabilidade por Canal de Vendas: Avalie a rentabilidade das vendas em diferentes canais de vendas, como loja online, loja física e revendedores, levando em consideração custos e margens de lucro específicos.
+
+10
+Análise de Ciclo de Vida do Produto: Analise o ciclo de vida de diferentes produtos, desde o lançamento até a descontinuação, para entender como as estratégias de vendas podem variar ao longo do ciclo de vida do produto.
+
+Lembre-se de que as análises devem ser relevantes para os objetivos de negócios da empresa e fornecer informações valiosas para a tomada de decisões. Certifique-se de documentar adequadamente cada análise, incluindo as dimensões e medidas utilizadas, para que outros usuários possam compreender e reproduzir as análises no futuro.
+
+
+
+
+
