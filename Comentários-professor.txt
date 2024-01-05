@@ -1,0 +1,40 @@
+(Arquitetura)
+-Fazer o diagrama da arquitetura correto e bem definido.
+-Explicar os componentes da arquitetura
+-Representar o processo de ETL (transformação não será apenas na staging area)
+
+
+(Estruturas de dados na Staging)
+-Especificar as tabelas na staging 
+-Mandar o createdDate e o ModifiedDate com os porcos
+-Verificar que atributos são úteis ou não para posterior análise
+-Especificar as tabelas DQP (como funcionam e alguns exemplos)
+-Apresentar esquema da DimDate (um ficheiro csv, por exemplo), pois DATE não existe na base de dados Bikes&Bikes
+-
+
+
+(Modelo dimensional)
+-A dim Transaction não é necessária, passar os atributos para as facts
+-Os atributos a nível do cabeçalho podem ser obtifos através dos outros
+-Apesar de freight e taxAmount terem granularidade diferentes, podemos baixar isto.
+-Encontrar uma tática para a implementação do freight. (Exemplo, se uma transação tiver 15 de freight e uma transação tem 3 linhas, em media cada uma teve um freight de 5)
+- Criar o duplicado para o valor monetário (uma local e outra standard) e o mesmo
+- Falta o cálculo do valor de desconto (unitPriceDescount representam o desconto percentual)
+- Meter mais atributos no dimDate (tendo assim mais níveis de granularidade)
+- 2 keys para a DimAddress (adressKey e moradaDeExpedição)
+- manter ligação entre o modelo dimensional e o sistema operacional (no fundo, ter os ids nas dims e nas facts)
+
+(Mapeamento lógico)
+- Faltou especificar o join entre as tabelas
+- O DimDate não está mapeado (apesar de não vir do Bikes&Bikes), tem de vir de algum de lado
+- Tudo o que é flag deve sofrer transformação
+- Especificar como é feito o cálculo das medidas
+
+
+
+(Cenas do relatório)
+-enumeral índice e começar na página 1
+- existir contextualizaçção teórica (é inútil)
+- Faltou adicionar uma conclusão
+- Usar o modo impessoal
+- 
